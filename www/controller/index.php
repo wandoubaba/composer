@@ -21,6 +21,11 @@ class Index
 		echo "post";
 	}
 
+	public function login()
+	{
+		# code...
+	}
+
 	public function code() {
 		header('Content-type: image/jpeg');
 		$builder = new CaptchaBuilder;
