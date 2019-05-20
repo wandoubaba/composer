@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "gregwar/captcha": "dev-master"
+        "gregwar/captcha": "1.*"
     },
     "autoload": {
     	"files":[
