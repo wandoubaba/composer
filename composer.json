@@ -1,11 +1,14 @@
 {
-    "name": "wandoubab/composer",
-    "description": "a test composer project",
+    "name": "wandoubaba/composer",
+    "description": "a composer demo",
+    "type": "project",
+    "license": "MIT",
     "authors": [
         {
             "name": "wandoubaba",
             "email": "wandoubaba517@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
