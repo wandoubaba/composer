@@ -1,0 +1,11 @@
+{
+    "name": "wandoubab/composer",
+    "description": "a test composer project",
+    "authors": [
+        {
+            "name": "wandoubaba",
+            "email": "wandoubaba517@gmail.com"
+        }
+    ],
+    "require": {}
+}
